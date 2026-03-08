@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Inessa Cho
+
+Independent learner exploring NLP and anomaly detection.
+
+Currently studying how language patterns shift in online communities and how these shifts can be detected through NLP methods.
+
+## Current interests
+
+- NLP anomaly detection
+- Out-of-distribution (OOD) detection in text
+- Discursive / narrative shift analysis
+- Text data analysis for online communities
+- OSINT-oriented text mining
+- Python Automation Scripting
+
+## What I'm currently doing
+
+- Studying NLP fundamentals
+- Building small Python tools for text analysis
+- Experimenting with RAG pipelines and data collection systems
+- Collecting and analyzing online discussion data
+
+## Learning direction
+
+My goal is to better understand how discourse evolves in online environments and how abnormal linguistic patterns can be detected automatically.
